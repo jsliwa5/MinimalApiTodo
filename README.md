@@ -1,4 +1,4 @@
-# WebApplication2
+# TodoApp
 
 This is my first ASP.NET Core aplication - a simple TODO app.
 
